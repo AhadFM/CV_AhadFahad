@@ -1,24 +1,22 @@
 ---
-title: "Willkommen!"
-image: "herzl.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
+title: "AHAD FAHAD AL-DOSSRI"
+image: "logo.jpg"
+color1: "#F1EBEB"
+color2: "#8B8786"
+angle: 1000
 links:
-  - label: YouTube
-    url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:Ahadfa.36@gmail.com"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ahad-fahad-al-dossri/"
+  - label: GitHub
+    url: "https://github.com/AhadFM"
 output:
   postcards::onofre
 ---
- 
-György Herzl is a filmmaker and computational storyteller based in Leipzig,
-Germany. Their work has been featured at the Festival do Rio, Internationale
-Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art
-in New York City. "ГУМ" is their latest project which examines the rise of
-consumerism in post-Soviet republics.
+
+## About Me
+
+I am Ahad Fahad Al-Dosari, majoring in mathematics at Prince Sattam bin Abdulaziz University, I have training experience in Saudi Customs in risk management and I have some courses such as R language and EMIST program , I'm looking for Joining a work environment to develop my skills.
+
+##### **Contact Us:**
